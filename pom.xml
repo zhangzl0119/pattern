@@ -12,6 +12,8 @@
         <module>factory-pattern</module>
         <module>singleton-pattern</module>
         <module>proxy-pattern</module>
+        <module>delegate-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
 
 
